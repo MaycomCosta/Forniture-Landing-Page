@@ -1,0 +1,6 @@
+export * from './Header'
+export * from './Buy'
+export * from './Experience'
+export * from './Materials'
+export * from './Testimonials'
+export * from './Footer'
